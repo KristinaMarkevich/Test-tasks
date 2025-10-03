@@ -2,7 +2,9 @@
 
 **ID** - 1
 
-**Summary** - Registration via email by non-existing user 
+**Summary**  
+
+                 Registration via email by non-existing user 
 
 **Pre-conditions**
 
