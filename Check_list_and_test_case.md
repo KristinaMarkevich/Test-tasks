@@ -1,4 +1,4 @@
-<a href="https://docs.google.com/spreadsheets/d/1cnhNEgGn-4fhCDv6k20MxPACdwyw-9uYmTjycEXIFlY/edit?usp=sharing">Link</a> to google sheet 
+<a href="https://docs.google.com/spreadsheets/d/1cnhNEgGn-4fhCDv6k20MxPACdwyw-9uYmTjycEXIFlY/edit?usp=sharing">Link</a> to the google sheet 
 
 
 | Info| | 
