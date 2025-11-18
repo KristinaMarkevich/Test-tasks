@@ -36,7 +36,7 @@ input only special characters > error message
 email already exists > error message
 ```
 
-2.Password 
+2. Password 
 
 (8-100 symbols,
 Passwords must have at least one lowercase letter ('a'-'z').
